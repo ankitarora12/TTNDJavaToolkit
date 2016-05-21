@@ -1,0 +1,7 @@
+/target/*
+/.apt_generated/
+/.classpath
+/.project
+/.class
+/bin/
+/target/
